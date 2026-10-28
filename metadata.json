@@ -1,0 +1,6 @@
+{
+  "name": "家聚遊記 FamilyTrip Hub",
+  "description": "專為家庭會議與旅遊規劃設計的共編平台，支援地圖標記、成員角色切換、多旅程管理、行程變更即時通知與歷史行程回顧。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
